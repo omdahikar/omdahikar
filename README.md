@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... techno things
 - 🌱 I’m currently learning ... cybersecurity
 - 💞️ I’m looking to collaborate on ... security realated stuffs 
-- 📫 How to reach me ... use my linkedin id
+- 📫 How to reach me ... use my linkedin id https://www.linkedin.com/in/om-dahikar-1044aa289/
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
 
