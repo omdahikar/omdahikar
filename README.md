@@ -54,7 +54,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🎯 Ranked **Top 6%** on [Competitive Cybersecurity Platform / THM/HTB if you want to mention]    
+- 🎯 Ranked **Top 6%** on [Competitive Cybersecurity Platform / THM/]    
 - 🎯 Completed multiple **Cybersecurity & AI research projects**  
 - 🎯 Regular learner from **YouTube workshops, Teachnook, and security labs**  
 
