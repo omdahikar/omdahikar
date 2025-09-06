@@ -48,12 +48,6 @@
 🔹 [**CTF Writeups & Labs**](#)  
 *Step-by-step solutions to TryHackMe & HackTheBox challenges.*  
 
-🔹 [**Parallel Processing Toolkit**](#)  
-*Custom toolkit for performance benchmarking and multiprocessing tasks.*  
-
-🔹 [**Arduino Automation**](#)  
-*IoT + Embedded systems projects for real-world automation.*  
-
 🔹 [**Portfolio Website**](#)  
 *Personal website hosted on GitHub Pages showcasing projects & resume.*  
 
