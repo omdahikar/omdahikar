@@ -60,8 +60,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🎯 Ranked **Top 8%** on [Competitive Cybersecurity Platform / THM/HTB if you want to mention]  
-- 🎯 Built **100+ Python/Bash tools for security & automation**  
+- 🎯 Ranked **Top 6%** on [Competitive Cybersecurity Platform / THM/HTB if you want to mention]    
 - 🎯 Completed multiple **Cybersecurity & AI research projects**  
 - 🎯 Regular learner from **YouTube workshops, Teachnook, and security labs**  
 
@@ -70,7 +69,7 @@
 ## 📜 Certifications & Learning  
 ⚡ Currently exploring:  
 - A+ | Network+ | Security+ *(via online learning)*  
-- OSCP *(following labs & study materials)*  
+- OSCP *(following labs & study materials , learning only, no certificates)*  
 - Cybersecurity workshops (Teachnook + university sessions)  
 
 ---
@@ -79,13 +78,13 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDahikar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmDahikar&layout=compact&theme=radical)  
-
+![TryHackMe Profile](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2625155" style='border:none;'></iframe>)
 ---
 
 ## 📫 Connect with Me  
 🌐 Portfolio: [Coming Soon]  
-💼 LinkedIn: [Add your LinkedIn link here]  
-📧 Email: *your-email@example.com*  
+💼 LinkedIn: *https://www.linkedin.com/in/om-dahikar-1044aa289/* 
+📧 Email: *omdahikar36@example.com*  
 
 ---
 ⭐ *Always open to collaborations in Cybersecurity, AI/ML, and Open-Source projects!*  
