@@ -78,7 +78,8 @@
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDahikar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmDahikar&layout=compact&theme=radical)  
-[![TryHackMe Badge](https://tryhackme.com/p/dahikar.om123)](https://tryhackme-badges.s3.amazonaws.com/2625155.png)
+![Tryhackme badge]<img src="https://tryhackme-badges.s3.amazonaws.com/dahikar.om123.png" alt="Your Image Badge" />
+
 
 ---
 
