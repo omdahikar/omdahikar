@@ -82,7 +82,7 @@
 ## 📫 Connect with Me  
 🌐 Portfolio: [Coming Soon]  
 💼 LinkedIn: *https://www.linkedin.com/in/om-dahikar-1044aa289/* 
-📧 Email: *omdahikar36@example.com*  
+📧 Email: *omdahikar36@gmail.com*  
 
 ---
 ⭐ *Always open to collaborations in Cybersecurity, AI/ML, and Open-Source projects!*  
